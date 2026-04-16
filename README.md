@@ -1,2 +1,25 @@
-# prompt-library
-A curated library of reusable prompt templates for software engineering workflows, including debugging, system design, backend development, testing, and observability.  
+# Prompt Library
+
+A reusable collection of prompt templates for software engineering tasks.
+
+Standardize how engineers interact with LLMs for:
+- Debugging production issues
+- Designing scalable systems
+- Writing and reviewing code
+- Generating tests
+- Improving observability
+
+## Categories
+- Debugging
+- Architecture
+- Coding
+- Testing
+- Observability
+- Security
+- Workflows
+
+## How to Use
+1. Navigate to the relevant category
+2. Copy the prompt template
+3. Replace placeholders (e.g., <SERVICE_NAME>)
+4. Use with your preferred LLM
